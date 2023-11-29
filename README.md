@@ -1,5 +1,5 @@
-# ncbi-filoviridae
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml)  [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-filoviridae)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-filoviridae)
+# ncbi-paramyxoviridae
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml)  [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-paramyxoviridae)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-paramyxoviridae)
 
 This repository contains configuration for GloBI to help index:
 
@@ -9,4 +9,4 @@ Data accessed via https://www.ncbi.nlm.nih.gov/labs/virus/ .
 
 To be made available through http://globalbioticinteractions.org .
 
-Note that, for this index configuration, only [Filoviridae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11266) [NCBI:txid11266](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11266) are included. 
+Note that, for this index configuration, only [Paramyxoviridae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11158) [NCBI:txid11158](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11158) are included. 
